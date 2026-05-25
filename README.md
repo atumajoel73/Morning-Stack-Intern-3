@@ -13,4 +13,4 @@ a markdown is a simple foormating language used to organize text.
 -Bullet points
 -Paragraph
 ## about me
-I am an intern of Morning Stack, i want to learn , front end technogies , Javascript, CSS, and HTML to become a skillfull software developer, and be able to complete one of the biggest projects at hand i.e creating a mobile app dedicated to the abia green bus project.To help track bus time frames and terminals. And also i will like to share  my knowledge with my colleague in Morning Stack.
+I am an intern of Morning Stack ICT, i want to learn frontend technogies, like HTML, CSS and JS to become a skillfull software developer, and be able to participate one of the biggest secondary project at hands, the Abia green project. To help with bus pass payment, track bus time frames and terminals. And also i will like to share my knowledge with my colleagues in Morning Stack club.
