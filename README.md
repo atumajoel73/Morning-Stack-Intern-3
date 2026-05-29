@@ -1,5 +1,5 @@
-# Assignment
-## intro
+# FIRST REPOSITRY
+## MY FIRST READ ME
 the readnme file was created for an assignment.
 ## goal
 the goal of this assignment is to learn how read me files works and there use.
